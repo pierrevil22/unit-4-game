@@ -1,0 +1,52 @@
+/* Backgrounds */
+body {
+	background-image: url("../images/background-4.jpeg")
+}
+
+.jumbotron {
+	background-color: darksalmon;
+}
+
+#gameSection, #scoreSection {
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#buttonSection {
+
+	padding: 10px;
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+
+/* Fonts */
+h1, h2, h3 {
+    
+    font-family: monospace
+}
+
+p {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.numberBox {
+	font-size: 150px;
+	margin: 0px;
+}
+
+.wins {
+    font-size: 150px;
+    margin: 0px;
+}
+
+/* images for buttons */
+.icons {
+	display: inline-block;
+  	max-width: 100px;
+  	max-height: 100px;
+  	width: auto;
+  	height: auto;
+  	margin:20px;
+}
